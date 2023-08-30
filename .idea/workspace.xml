@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="539adec3-332d-4f2d-833c-a26b091f480c" name="Changes" comment="первый коммит">
-      <change afterPath="$PROJECT_DIR$/14. Longest Common Prefix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeedCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeedCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="539adec3-332d-4f2d-833c-a26b091f480c" name="Changes" comment="14. Longest Common Prefix.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,16 +31,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/Documents/PycharmProjects/LeedCode",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.14. Longest Common Prefix">
+  <component name="RunManager" selected="Python.100. Same Tree">
     <configuration name="100. Same Tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeedCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,9 +176,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.100. Same Tree" />
         <item itemvalue="Python.14. Longest Common Prefix" />
         <item itemvalue="Python.144. Binary Tree Preorder Traversal" />
-        <item itemvalue="Python.100. Same Tree" />
         <item itemvalue="Python.1. Two Sum" />
         <item itemvalue="Python.Self" />
       </list>
@@ -201,7 +197,7 @@
       <workItem from="1689588039169" duration="9000" />
       <workItem from="1692874566912" duration="6000" />
       <workItem from="1692874586007" duration="20000" />
-      <workItem from="1693394859012" duration="1819000" />
+      <workItem from="1693394859012" duration="2216000" />
     </task>
     <task id="LOCAL-00001" summary="первый коммит">
       <created>1689574674738</created>
@@ -210,7 +206,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689574674738</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="14. Longest Common Prefix.py">
+      <created>1693397392513</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693397392513</updated>
+    </task>
+    <task id="LOCAL-00003" summary="14. Longest Common Prefix.py">
+      <created>1693397692178</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693397692178</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +251,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="первый коммит" />
-    <option name="LAST_COMMIT_MESSAGE" value="первый коммит" />
+    <MESSAGE value="14. Longest Common Prefix.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="14. Longest Common Prefix.py" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeedCode$144__Binary_Tree_Preorder_Traversal.coverage" NAME="144. Binary Tree Preorder Traversal Coverage Results" MODIFIED="1693397346354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeedCode$100__Same_Tree.coverage" NAME="100. Same Tree Coverage Results" MODIFIED="1693397656103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
