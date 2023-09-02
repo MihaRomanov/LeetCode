@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="539adec3-332d-4f2d-833c-a26b091f480c" name="Changes" comment="20. Valid Parentheses">
-      <change afterPath="$PROJECT_DIR$/9. Palindrome Number.py" afterDir="false" />
+    <list default="true" id="539adec3-332d-4f2d-833c-a26b091f480c" name="Changes" comment="9. Palindrome Number">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +199,9 @@
       <workItem from="1689588039169" duration="9000" />
       <workItem from="1692874566912" duration="6000" />
       <workItem from="1692874586007" duration="20000" />
-      <workItem from="1693394859012" duration="3652000" />
+      <workItem from="1693394859012" duration="9385000" />
+      <workItem from="1693405840138" duration="606000" />
+      <workItem from="1693582422297" duration="605000" />
     </task>
     <task id="LOCAL-00001" summary="первый коммит">
       <created>1689574674738</created>
@@ -236,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693398851959</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="9. Palindrome Number">
+      <created>1693399183806</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693399183806</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +278,8 @@
     <MESSAGE value="первый коммит" />
     <MESSAGE value="14. Longest Common Prefix.py" />
     <MESSAGE value="20. Valid Parentheses" />
-    <option name="LAST_COMMIT_MESSAGE" value="20. Valid Parentheses" />
+    <MESSAGE value="9. Palindrome Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="9. Palindrome Number" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeedCode$20__Valid_Parentheses.coverage" NAME="20. Valid Parentheses Coverage Results" MODIFIED="1693398704782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
