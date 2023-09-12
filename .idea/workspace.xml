@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="539adec3-332d-4f2d-833c-a26b091f480c" name="Changes" comment="377. Combination Sum IV">
-      <change afterPath="$PROJECT_DIR$/1359. Count All Valid Pickup and Delivery Options.py" afterDir="false" />
+    <list default="true" id="539adec3-332d-4f2d-833c-a26b091f480c" name="Changes" comment="1282. Group the People Given the Group Size They Belong To">
+      <change afterPath="$PROJECT_DIR$/1647. Minimum Deletions to Make Character Frequencies Unique.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,14 +37,14 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/Documents/PycharmProjects/LeedCode",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.118. Pascal's Triangle">
+  <component name="RunManager" selected="Python.1647. Minimum Deletions to Make Character Frequencies Unique">
     <configuration name="118. Pascal's Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeedCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="62. Unique Paths" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1647. Minimum Deletions to Make Character Frequencies Unique" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeedCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +102,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/62. Unique Paths.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1647. Minimum Deletions to Make Character Frequencies Unique.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1647. Minimum Deletions to Make Character Frequencies Unique" />
         <item itemvalue="Python.118. Pascal's Triangle" />
         <item itemvalue="Python.725. Split Linked List in Parts" />
         <item itemvalue="Python.138. Copy List with Random Pointer" />
         <item itemvalue="Python.912. Sort an Array" />
-        <item itemvalue="Python.62. Unique Paths" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +213,9 @@
       <workItem from="1694188185649" duration="1923000" />
       <workItem from="1694274682920" duration="1413000" />
       <workItem from="1694363441863" duration="1388000" />
-      <workItem from="1694431511241" duration="559000" />
+      <workItem from="1694431511241" duration="1435000" />
+      <workItem from="1694496947907" duration="88000" />
+      <workItem from="1694538172423" duration="837000" />
     </task>
     <task id="LOCAL-00001" summary="первый коммит">
       <created>1689574674738</created>
@@ -313,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694289986206</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="1282. Group the People Given the Group Size They Belong To">
+      <created>1694432462007</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1694432462007</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,7 +364,8 @@
     <MESSAGE value="118. Pascal's Triangle" />
     <MESSAGE value="39" />
     <MESSAGE value="377. Combination Sum IV" />
-    <option name="LAST_COMMIT_MESSAGE" value="377. Combination Sum IV" />
+    <MESSAGE value="1282. Group the People Given the Group Size They Belong To" />
+    <option name="LAST_COMMIT_MESSAGE" value="1282. Group the People Given the Group Size They Belong To" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeedCode$62__Unique_Paths.coverage" NAME="62. Unique Paths Coverage Results" MODIFIED="1693749792231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -363,6 +373,7 @@
     <SUITE FILE_PATH="coverage/LeedCode$20__Valid_Parentheses.coverage" NAME="20. Valid Parentheses Coverage Results" MODIFIED="1693398704782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeedCode$144__Binary_Tree_Preorder_Traversal.coverage" NAME="144. Binary Tree Preorder Traversal Coverage Results" MODIFIED="1693397346354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeedCode$14__Longest_Common_Perfix.coverage" NAME="14. Longest Common Perfix Coverage Results" MODIFIED="1693397754036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeedCode$1647__Minimum_Deletions_to_Make_Character_Frequencies_Unique.coverage" NAME="1647. Minimum Deletions to Make Character Frequencies Unique Coverage Results" MODIFIED="1694538927779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeedCode$100__Same_Tree.coverage" NAME="100. Same Tree Coverage Results" MODIFIED="1693397656103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeedCode$912__Sort_an_Array.coverage" NAME="912. Sort an Array Coverage Results" MODIFIED="1693821957806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeedCode$138__Copy_List_with_Random_Pointer.coverage" NAME="138. Copy List with Random Pointer Coverage Results" MODIFIED="1693917856419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
