@@ -1,10 +1,7 @@
 #https://leetcode.com/problems/candy/description/
 class Solution(object):
     def candy(self, ratings):
-        """
-        :type ratings: List[int]
-        :rtype: int
-        """
+
         n = len(ratings)
         if n == 0:
             return 0
