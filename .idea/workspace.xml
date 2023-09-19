@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="539adec3-332d-4f2d-833c-a26b091f480c" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/1337. The K Weakest Rows in a Matrix.py" afterDir="false" />
+    <list default="true" id="539adec3-332d-4f2d-833c-a26b091f480c" name="Changes" comment="1337. The K Weakest Rows in a Matrix">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82b6212c4da34c73302cabf109b20a5e07b85d3e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/a/7aad6e5cd33f4d500d107a9ac99cd6a5e22fa050" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/2/82b6212c4da34c73302cabf109b20a5e07b85d3e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7aad6e5cd33f4d500d107a9ac99cd6a5e22fa050" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +229,8 @@
       <workItem from="1694844089852" duration="12000" />
       <workItem from="1694925650982" duration="404000" />
       <workItem from="1694932632596" duration="91000" />
-      <workItem from="1695021697259" duration="1158000" />
+      <workItem from="1695021697259" duration="1308000" />
+      <workItem from="1695108121011" duration="457000" />
     </task>
     <task id="LOCAL-00001" summary="первый коммит">
       <created>1689574674738</created>
@@ -373,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694932680687</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="1337. The K Weakest Rows in a Matrix">
+      <created>1695025671549</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1695025671549</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,7 +435,8 @@
     <MESSAGE value="13. Roman to Integer &#10;1833. Maximum Ice Cream Bars&#10;83. Remove Duplicates from Sorted List" />
     <MESSAGE value="1631. Path With Minimum Effort" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="1337. The K Weakest Rows in a Matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="1337. The K Weakest Rows in a Matrix" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeedCode$62__Unique_Paths.coverage" NAME="62. Unique Paths Coverage Results" MODIFIED="1693749792231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
