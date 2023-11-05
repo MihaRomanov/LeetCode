@@ -1,15 +1,5 @@
 #https://leetcode.com/problems/longest-common-prefix/description/
 
-# Example 1:
-#
-# Input: strs = ["flower","flow","flight"]
-# Output: "fl"
-# Example 2:
-#
-# Input: strs = ["dog","racecar","car"]
-# Output: ""
-# Explanation: There is no common prefix among the input strings.
-
 
 def longestCommonPrefix(a):
     size = len(a)
@@ -28,9 +18,6 @@ def longestCommonPrefix(a):
     pre = a[0][0: i]
     return pre
 
-
-# Driver Code
-# if __name__ == "__main__":
 input = ["geeksforgeeks", "geeks",
              "geek", "geezer"]
 print("The longest Common Prefix is :",
