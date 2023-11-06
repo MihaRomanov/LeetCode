@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/find-the-winner-of-an-array-game/description/
 
+
 class Solution:
     def getWinner(self, arr: List[int], k: int) -> int:
         current = arr[0]

@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/maximum-score-of-a-good-subarray/description/
 
+
 class Solution:
   def maximumScore(self, nums: List[int], k: int) -> int:
     ans = 0

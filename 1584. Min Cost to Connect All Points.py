@@ -1,5 +1,6 @@
 #https://leetcode.com/problems/min-cost-to-connect-all-points/description/
 
+
 class Solution:
     def minCostConnectPoints(self, points: List[List[int]]) -> int:
         d, res = {(x, y): float('inf') if i else 0 for i, (x, y) in enumerate(points)}, 0

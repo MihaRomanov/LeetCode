@@ -4,7 +4,7 @@ class Solution:
     def validateBinaryTreeNodes(self, n: int, leftChild: List[int], rightChild: List[int]) -> bool:
         indegree = [0] * n  # Initialize in-degree of all nodes to 0
 
-        # Build the in-degree array in a single pass
+
         for i in range(n):
             if leftChild[i] != -1:
                 indegree[leftChild[i]] += 1

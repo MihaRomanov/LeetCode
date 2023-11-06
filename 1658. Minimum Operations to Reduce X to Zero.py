@@ -1,5 +1,6 @@
 #https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/
 
+
 class Solution:
     def minOperations(self, nums: List[int], x: int) -> int:
         target, n = sum(nums) - x, len(nums)

@@ -22,7 +22,6 @@ class Solution:
                     if cost < distances[next_x][next_y]:
                         distances[next_x][next_y] = cost
                         pq.put((cost, (next_x, next_y)))
-            # print(distances)
 
         return int(distances[len(heights) - 1][len(heights[0]) - 1])
 
