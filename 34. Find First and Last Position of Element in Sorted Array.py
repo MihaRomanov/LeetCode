@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 
+
 class Solution:
     def searchRange(self, N: List[int], T: int) -> List[int]:
         def find(target, arr, left=0):
