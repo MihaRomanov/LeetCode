@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/132-pattern/description/
 
+
 class Solution(object):
     def find132pattern(self, nums):
         if len(nums) < 3:

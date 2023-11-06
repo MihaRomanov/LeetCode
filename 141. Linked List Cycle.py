@@ -1,3 +1,6 @@
+
+
+
 class Solution:
     def hasCycle(self, head: ListNode) -> bool:
         slow = fast = head
