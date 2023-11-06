@@ -1,5 +1,6 @@
 #https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 
+
 class Solution(object):
     def deleteDuplicates(self, head):
         temp = head
