@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/number-of-flowers-in-full-bloom/description/
 
+
 class Solution:
     def fullBloomFlowers(
         self, flowers: List[List[int]], people: List[int]

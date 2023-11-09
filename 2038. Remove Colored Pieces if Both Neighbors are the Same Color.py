@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/description/
 
+
 class Solution:
   def winnerOfGame(self, colors: str) -> bool:
     countAAA = 0

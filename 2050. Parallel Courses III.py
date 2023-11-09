@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/parallel-courses-iii/description/
 
+
 class Solution:
     def minimumTime(self, n: int, relations: List[List[int]], time: List[int]) -> int:
         g = defaultdict(list)
