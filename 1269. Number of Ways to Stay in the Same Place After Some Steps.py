@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/description/
 
+
 class Solution:
   def numWays(self, steps: int, arrLen: int) -> int:
     kMod = 1_000_000_007

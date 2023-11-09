@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/count-vowels-permutation/description/
 
+
 class Solution:
     def countVowelPermutation(self, n: int) -> int:
         f = [1] * 5

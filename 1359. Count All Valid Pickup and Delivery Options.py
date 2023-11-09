@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/
 
+
 class Solution:
   def countOrders(self, n: int) -> int:
     kMod = 1_000_000_007

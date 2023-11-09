@@ -1,5 +1,6 @@
 #https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/
 
+
 class Solution:
     def kWeakestRows(self, mat: [int], k: int):
         power = []
