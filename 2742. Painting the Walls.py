@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/painting-the-walls/description/
 
+
 class Solution:
     def paintWalls(self, cost: List[int], time: List[int]) -> int:
         postfix_times = time.copy()

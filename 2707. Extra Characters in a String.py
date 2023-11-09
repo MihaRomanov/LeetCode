@@ -1,4 +1,6 @@
 # https://leetcode.com/problems/extra-characters-in-a-string/description/
+
+
 class Solution(object):
     def minExtraChar(self, s, dictionary):
         words = set(dictionary)
