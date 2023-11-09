@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/constrained-subsequence-sum/description/
 
+
 class Solution:
     def constrainedSubsetSum(self, nums: List[int], k: int) -> int:
         res = nums[0]

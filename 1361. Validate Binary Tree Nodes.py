@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/validate-binary-tree-nodes/description/
 
+
 class Solution:
     def validateBinaryTreeNodes(self, n: int, leftChild: List[int], rightChild: List[int]) -> bool:
         indegree = [0] * n  # Initialize in-degree of all nodes to 0

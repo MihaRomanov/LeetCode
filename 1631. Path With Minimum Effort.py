@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/path-with-minimum-effort/description/
 
+
 import numpy as np
 from queue import PriorityQueue
 
