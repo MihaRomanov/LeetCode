@@ -3,7 +3,7 @@
 
 class Solution:
     def validateBinaryTreeNodes(self, n: int, leftChild: List[int], rightChild: List[int]) -> bool:
-        indegree = [0] * n  # Initialize in-degree of all nodes to 0
+        indegree = [0] * n
 
 
         for i in range(n):
@@ -12,7 +12,6 @@ class Solution:
             if rightChild[i] != -1:
                 indegree[rightChild[i]] += 1
 
-        # Find the root (node with in-degree 0)
         root = None
         for i in range(n):
             if indegree[i] == 0:
