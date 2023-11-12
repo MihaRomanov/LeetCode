@@ -4,7 +4,6 @@
 class Solution:
   def numWays(self, steps: int, arrLen: int) -> int:
     kMod = 1_000_000_007
-    # dp[i] := # of ways to stay on index i
     dp = [0] * min(steps // 2 + 1, arrLen)
     dp[0] = 1
 
