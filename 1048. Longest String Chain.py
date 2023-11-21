@@ -1,4 +1,6 @@
 #https://leetcode.com/problems/longest-string-chain
+
+
 class Solution:
   def longestStrChain(words):
     wordsSet = set(words)
