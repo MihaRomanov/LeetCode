@@ -3,7 +3,6 @@
 
 import functools
 
-
 class Solution:
     def findInMountainArray(self, target: int, mountain_arr: 'MountainArray') -> int:
         LEN = mountain_arr.length()
