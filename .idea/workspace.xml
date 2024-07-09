@@ -1,10 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="539adec3-332d-4f2d-833c-a26b091f480c" name="Changes" comment="gitignore">
+    <list default="true" id="539adec3-332d-4f2d-833c-a26b091f480c" name="Changes" comment="1457 _0/10">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeedCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeedCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82b6212c4da34c73302cabf109b20a5e07b85d3e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82b6212c4da34c73302cabf109b20a5e07b85d3e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Two Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Two Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100. Same Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/100. Same Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1026. Maximum Difference Between Node and Ancestor.py" beforeDir="false" afterPath="$PROJECT_DIR$/1026. Maximum Difference Between Node and Ancestor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1048. Longest String Chain.py" beforeDir="false" afterPath="$PROJECT_DIR$/1048. Longest String Chain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1095. Find in Mountain Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/1095. Find in Mountain Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1143. Longest Common Subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/1143. Longest Common Subsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1160. Find Words That Can Be Formed by Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/1160. Find Words That Can Be Formed by Characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/118. Pascal's Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/118. Pascal's Triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/119. Pascal's Triangle II.py" beforeDir="false" afterPath="$PROJECT_DIR$/119. Pascal's Triangle II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12. Integer to Roman.py" beforeDir="false" afterPath="$PROJECT_DIR$/12. Integer to Roman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1207. Unique Number of Occurrences.py" beforeDir="false" afterPath="$PROJECT_DIR$/1207. Unique Number of Occurrences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1220. Count Vowels Permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/1220. Count Vowels Permutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1235. Maximum Profit in Job Scheduling.py" beforeDir="false" afterPath="$PROJECT_DIR$/1235. Maximum Profit in Job Scheduling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1266. Minimum Time Visiting All Points.py" beforeDir="false" afterPath="$PROJECT_DIR$/1266. Minimum Time Visiting All Points.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1269. Number of Ways to Stay in the Same Place After Some Steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/1269. Number of Ways to Stay in the Same Place After Some Steps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1282. Group the People Given the Group Size They Belong To.py" beforeDir="false" afterPath="$PROJECT_DIR$/1282. Group the People Given the Group Size They Belong To.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1286. Iterator for Combination.py" beforeDir="false" afterPath="$PROJECT_DIR$/1286. Iterator for Combination.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1287. Element Appearing More Than 25% In Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/1287. Element Appearing More Than 25% In Sorted Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13. Roman to Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/13. Roman to Integer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/132 Pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/132 Pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1337. The K Weakest Rows in a Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/1337. The K Weakest Rows in a Matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1347. Minimum Number of Steps to Make Two Strings Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/1347. Minimum Number of Steps to Make Two Strings Anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/135. Candy.py" beforeDir="false" afterPath="$PROJECT_DIR$/135. Candy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1356. Sort Integers by The Number of 1 Bits.py" beforeDir="false" afterPath="$PROJECT_DIR$/1356. Sort Integers by The Number of 1 Bits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1359. Count All Valid Pickup and Delivery Options.py" beforeDir="false" afterPath="$PROJECT_DIR$/1359. Count All Valid Pickup and Delivery Options.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1361. Validate Binary Tree Nodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/1361. Validate Binary Tree Nodes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/138. Copy List with Random Pointer.py" beforeDir="false" afterPath="$PROJECT_DIR$/138. Copy List with Random Pointer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14. Longest Common Perfix.py" beforeDir="false" afterPath="$PROJECT_DIR$/14. Longest Common Perfix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/141. Linked List Cycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/141. Linked List Cycle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1420. Build Array Where You Can Find The Maximum Exactly K Comparisons.py" beforeDir="false" afterPath="$PROJECT_DIR$/1420. Build Array Where You Can Find The Maximum Exactly K Comparisons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1424. Diagonal Traverse II.py" beforeDir="false" afterPath="$PROJECT_DIR$/1424. Diagonal Traverse II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1425. Constrained Subsequence Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/1425. Constrained Subsequence Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1436. Destination City.py" beforeDir="false" afterPath="$PROJECT_DIR$/1436. Destination City.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/144. Binary Tree Preorder Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/144. Binary Tree Preorder Traversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1441. Build an Array With Stack Operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/1441. Build an Array With Stack Operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1457. Pseudo-Palindromic Paths in a Binary Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/1457. Pseudo-Palindromic Paths in a Binary Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1458. Max Dot Product of Two Subsequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/1458. Max Dot Product of Two Subsequences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1464. Maximum Product of Two Elements in an Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/1464. Maximum Product of Two Elements in an Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1496. Path Crossing" beforeDir="false" afterPath="$PROJECT_DIR$/1496. Path Crossing" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1503. Last Moment Before All Ants Fall Out of a Plank.py" beforeDir="false" afterPath="$PROJECT_DIR$/1503. Last Moment Before All Ants Fall Out of a Plank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1512. Number of Good Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/1512. Number of Good Pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1535. Find the Winner of an Array Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/1535. Find the Winner of an Array Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1561. Maximum Number of Coins You Can Get.py" beforeDir="false" afterPath="$PROJECT_DIR$/1561. Maximum Number of Coins You Can Get.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1582. Special Positions in a Binary Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/1582. Special Positions in a Binary Matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1584. Min Cost to Connect All Points.py" beforeDir="false" afterPath="$PROJECT_DIR$/1584. Min Cost to Connect All Points.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1611. Minimum One Bit Operations to Make Integers Zero.py" beforeDir="false" afterPath="$PROJECT_DIR$/1611. Minimum One Bit Operations to Make Integers Zero.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1630. Arithmetic Subarrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/1630. Arithmetic Subarrays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1631. Path With Minimum Effort.py" beforeDir="false" afterPath="$PROJECT_DIR$/1631. Path With Minimum Effort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1637. Widest Vertical Area Between Two Points Containing No Points" beforeDir="false" afterPath="$PROJECT_DIR$/1637. Widest Vertical Area Between Two Points Containing No Points" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1647. Minimum Deletions to Make Character Frequencies Unique.py" beforeDir="false" afterPath="$PROJECT_DIR$/1647. Minimum Deletions to Make Character Frequencies Unique.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1657. Determine if Two Strings Are Close.py" beforeDir="false" afterPath="$PROJECT_DIR$/1657. Determine if Two Strings Are Close.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1658. Minimum Operations to Reduce X to Zero.py" beforeDir="false" afterPath="$PROJECT_DIR$/1658. Minimum Operations to Reduce X to Zero.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1662. Check If Two String Arrays are Equivalent.py" beforeDir="false" afterPath="$PROJECT_DIR$/1662. Check If Two String Arrays are Equivalent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1685. Sum of Absolute Differences in a Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/1685. Sum of Absolute Differences in a Sorted Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1688. Count of Matches in Tournament.py" beforeDir="false" afterPath="$PROJECT_DIR$/1688. Count of Matches in Tournament.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1704. Determine if String Halves Are Alike.py" beforeDir="false" afterPath="$PROJECT_DIR$/1704. Determine if String Halves Are Alike.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1716. Calculate Money in Leetcode Bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/1716. Calculate Money in Leetcode Bank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1727. Largest Submatrix With Rearrangements.py" beforeDir="false" afterPath="$PROJECT_DIR$/1727. Largest Submatrix With Rearrangements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1743. Restore the Array From Adjacent Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/1743. Restore the Array From Adjacent Pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1759. Count Number of Homogenous Substrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/1759. Count Number of Homogenous Substrings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1793. Maximum Score of a Good Subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/1793. Maximum Score of a Good Subarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1814. Count Nice Pairs in an Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/1814. Count Nice Pairs in an Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1833. Maximum Ice Cream Bars.py" beforeDir="false" afterPath="$PROJECT_DIR$/1833. Maximum Ice Cream Bars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1838. Frequency of the Most Frequent Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/1838. Frequency of the Most Frequent Element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1845. Seat Reservation Manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/1845. Seat Reservation Manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1846. Maximum Element After Decreasing and Rearranging.py" beforeDir="false" afterPath="$PROJECT_DIR$/1846. Maximum Element After Decreasing and Rearranging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1877. Minimize Maximum Pair Sum in Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/1877. Minimize Maximum Pair Sum in Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1887. Reduction Operations to Make the Array Elements Equal.py" beforeDir="false" afterPath="$PROJECT_DIR$/1887. Reduction Operations to Make the Array Elements Equal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1903. Largest Odd Number in String.py" beforeDir="false" afterPath="$PROJECT_DIR$/1903. Largest Odd Number in String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191. Number of 1 Bits.py" beforeDir="false" afterPath="$PROJECT_DIR$/191. Number of 1 Bits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1913. Maximum Product Difference Between Two Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/1913. Maximum Product Difference Between Two Pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1921. Eliminate Maximum Number of Monsters.py" beforeDir="false" afterPath="$PROJECT_DIR$/1921. Eliminate Maximum Number of Monsters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1930. Unique Length-3 Palindromic Subsequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/1930. Unique Length-3 Palindromic Subsequences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1980. Find Unique Binary String.py" beforeDir="false" afterPath="$PROJECT_DIR$/1980. Find Unique Binary String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. Valid Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/20. Valid Parentheses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2009. Minimum Number of Operations to Make Array Continuous.py" beforeDir="false" afterPath="$PROJECT_DIR$/2009. Minimum Number of Operations to Make Array Continuous.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2038. Remove Colored Pieces if Both Neighbors are the Same Color.py" beforeDir="false" afterPath="$PROJECT_DIR$/2038. Remove Colored Pieces if Both Neighbors are the Same Color.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2050. Parallel Courses III.py" beforeDir="false" afterPath="$PROJECT_DIR$/2050. Parallel Courses III.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21. Merge Two Sorted Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/21. Merge Two Sorted Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2125. Number of Laser Beams in a Bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/2125. Number of Laser Beams in a Bank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2147. Number of Ways to Divide a Long Corridor.py" beforeDir="false" afterPath="$PROJECT_DIR$/2147. Number of Ways to Divide a Long Corridor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2225. Find Players With Zero or One Losses.py" beforeDir="false" afterPath="$PROJECT_DIR$/2225. Find Players With Zero or One Losses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2251. Number of Flowers in Full Bloom.py" beforeDir="false" afterPath="$PROJECT_DIR$/2251. Number of Flowers in Full Bloom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2264. Largest 3-Same-Digit Number in String.py" beforeDir="false" afterPath="$PROJECT_DIR$/2264. Largest 3-Same-Digit Number in String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2265. Count Nodes Equal to Average of Subtree.py" beforeDir="false" afterPath="$PROJECT_DIR$/2265. Count Nodes Equal to Average of Subtree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/229. Majority Element II.py" beforeDir="false" afterPath="$PROJECT_DIR$/229. Majority Element II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2353. Design a Food Rating System.py" beforeDir="false" afterPath="$PROJECT_DIR$/2353. Design a Food Rating System.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2385. Amount of Time for Binary Tree to Be Infected.py" beforeDir="false" afterPath="$PROJECT_DIR$/2385. Amount of Time for Binary Tree to Be Infected.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2391. Minimum Amount of Time to Collect Garbage.py" beforeDir="false" afterPath="$PROJECT_DIR$/2391. Minimum Amount of Time to Collect Garbage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/242. Valid Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/242. Valid Anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2433. Find The Original Array of Prefix Xor.py" beforeDir="false" afterPath="$PROJECT_DIR$/2433. Find The Original Array of Prefix Xor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2482. Difference Between Ones and Zeros in Row and Column.py" beforeDir="false" afterPath="$PROJECT_DIR$/2482. Difference Between Ones and Zeros in Row and Column.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2610. Convert an Array Into a 2D Array With Conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/2610. Convert an Array Into a 2D Array With Conditions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2642. Design Graph With Shortest Path Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/2642. Design Graph With Shortest Path Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2707. Extra Characters in a String.py" beforeDir="false" afterPath="$PROJECT_DIR$/2707. Extra Characters in a String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2742. Painting the Walls.py" beforeDir="false" afterPath="$PROJECT_DIR$/2742. Painting the Walls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2785. Sort Vowels in a String.py" beforeDir="false" afterPath="$PROJECT_DIR$/2785. Sort Vowels in a String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2849. Determine if a Cell Is Reachable at a Given Time.py" beforeDir="false" afterPath="$PROJECT_DIR$/2849. Determine if a Cell Is Reachable at a Given Time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/287. Find the Duplicate Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/287. Find the Duplicate Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2870. Minimum Number of Operations to Make Array Empty.py" beforeDir="false" afterPath="$PROJECT_DIR$/2870. Minimum Number of Operations to Make Array Empty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/300. Longest Increasing Subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/300. Longest Increasing Subsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/316. Remove Duplicate Letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/316. Remove Duplicate Letters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/332. Reconstruct Itinerary.py" beforeDir="false" afterPath="$PROJECT_DIR$/332. Reconstruct Itinerary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/338. Counting Bits.py" beforeDir="false" afterPath="$PROJECT_DIR$/338. Counting Bits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34. Find First and Last Position of Element in Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/34. Find First and Last Position of Element in Sorted Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/341. Flatten Nested List Iterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/341. Flatten Nested List Iterator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/342. Power of Four.py" beforeDir="false" afterPath="$PROJECT_DIR$/342. Power of Four.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/343. Integer Break.py" beforeDir="false" afterPath="$PROJECT_DIR$/343. Integer Break.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/377. Combination Sum IV.py" beforeDir="false" afterPath="$PROJECT_DIR$/377. Combination Sum IV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/380. Insert Delete GetRandom O(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/380. Insert Delete GetRandom O(1).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/389. Find the Difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/389. Find the Difference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/392. Is Subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/392. Is Subsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4. Median of Two Sorted Arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/4. Median of Two Sorted Arrays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/446. Arithmetic Slices II - Subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/446. Arithmetic Slices II - Subsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/455. Assign Cookies.py" beforeDir="false" afterPath="$PROJECT_DIR$/455. Assign Cookies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/458. Poor Pigs.py" beforeDir="false" afterPath="$PROJECT_DIR$/458. Poor Pigs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. Longest Palindromic Substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Longest Palindromic Substring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/501. Find Mode in Binary Search Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/501. Find Mode in Binary Search Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/515. Find Largest Value in Each Tree Row.py" beforeDir="false" afterPath="$PROJECT_DIR$/515. Find Largest Value in Each Tree Row.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/557. Reverse Words in a String III.py" beforeDir="false" afterPath="$PROJECT_DIR$/557. Reverse Words in a String III.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/606. Construct String from Binary Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/606. Construct String from Binary Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/62. Unique Paths.py" beforeDir="false" afterPath="$PROJECT_DIR$/62. Unique Paths.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/645. Set Mismatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/645. Set Mismatch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/661. Image Smoother" beforeDir="false" afterPath="$PROJECT_DIR$/661. Image Smoother" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/70. Climbing Stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/70. Climbing Stairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/706. Design HashMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/706. Design HashMap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/725. Split Linked List in Parts.py" beforeDir="false" afterPath="$PROJECT_DIR$/725. Split Linked List in Parts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/746. Min Cost Climbing Stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/746. Min Cost Climbing Stairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/779. K-th Symbol in Grammar.py" beforeDir="false" afterPath="$PROJECT_DIR$/779. K-th Symbol in Grammar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/799. Champagne Tower.py" beforeDir="false" afterPath="$PROJECT_DIR$/799. Champagne Tower.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/815. Bus Routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/815. Bus Routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/823. Binary Trees With Factors.py" beforeDir="false" afterPath="$PROJECT_DIR$/823. Binary Trees With Factors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/83. Remove Duplicates from Sorted List.py" beforeDir="false" afterPath="$PROJECT_DIR$/83. Remove Duplicates from Sorted List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/844. Backspace String Compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/844. Backspace String Compare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/847. Shortest Path Visiting All Nodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/847. Shortest Path Visiting All Nodes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/867. Transpose Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/867. Transpose Matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/872. Leaf-Similar Trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/872. Leaf-Similar Trees.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/880. Decoded String at Index.py" beforeDir="false" afterPath="$PROJECT_DIR$/880. Decoded String at Index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/896. Monotonic Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/896. Monotonic Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. Palindrome Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/9. Palindrome Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/905. Sort Array By Parity.py" beforeDir="false" afterPath="$PROJECT_DIR$/905. Sort Array By Parity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/907. Sum of Subarray Minimums.py" beforeDir="false" afterPath="$PROJECT_DIR$/907. Sum of Subarray Minimums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/912. Sort an Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/912. Sort an Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/92. Reverse Linked List II.py" beforeDir="false" afterPath="$PROJECT_DIR$/92. Reverse Linked List II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/931. Minimum Falling Path Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/931. Minimum Falling Path Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/935. Knight Dialer.py" beforeDir="false" afterPath="$PROJECT_DIR$/935. Knight Dialer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/938. Range Sum of BST.py" beforeDir="false" afterPath="$PROJECT_DIR$/938. Range Sum of BST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/94. Binary Tree Inorder Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/94. Binary Tree Inorder Traversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Self.py" beforeDir="false" afterPath="$PROJECT_DIR$/Self.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,15 +181,50 @@
       </list>
     </option>
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MihaRomanov"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mihanik575/LeetCode.git",
+    "accountId": "22b6bcb2-4a6b-47cd-8766-529817234041"
+  }
+}]]></component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="uqclw9g6" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="2JlP3GZUIAtRTQMsYixu8fUssRa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,39 +233,22 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Documents/PycharmProjects/LeetCode",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/mnt/sda1/Documents/01Devops/LeetCode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "settings.editor.selected.configurable": "preferences.keymap"
   },
   "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-    ]
+    "ChangesTree.GroupingKeys": []
   }
 }]]></component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="118. Pascal's Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeedCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/118. Pascal's Triangle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="1337. The K Weakest Rows in a Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeedCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,7 +293,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="725. Split Linked List in Parts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2391. Minimum Amount of Time to Collect Garbage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeedCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +306,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/725. Split Linked List in Parts.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2391. Minimum Amount of Time to Collect Garbage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="70. Climbing Stairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeedCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/70. Climbing Stairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,15 +381,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.1337. The K Weakest Rows in a Matrix" />
-        <item itemvalue="Python.1647. Minimum Deletions to Make Character Frequencies Unique" />
-        <item itemvalue="Python.118. Pascal's Triangle" />
-        <item itemvalue="Python.725. Split Linked List in Parts" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -230,197 +423,454 @@
       <workItem from="1695108121011" duration="662000" />
       <workItem from="1695108826016" duration="1664000" />
       <workItem from="1695114953334" duration="321000" />
+      <workItem from="1697896362236" duration="118000" />
+      <workItem from="1697904635938" duration="804000" />
+      <workItem from="1697995176320" duration="711000" />
+      <workItem from="1698078458306" duration="2380000" />
+      <workItem from="1698133342275" duration="426000" />
+      <workItem from="1698251580175" duration="710000" />
+      <workItem from="1698302202184" duration="2194000" />
+      <workItem from="1698435238018" duration="334000" />
+      <workItem from="1698522920240" duration="16000" />
+      <workItem from="1698522939607" duration="83000" />
+      <workItem from="1698563593709" duration="1385000" />
+      <workItem from="1698654809612" duration="1121000" />
+      <workItem from="1698756169215" duration="1237000" />
+      <workItem from="1698830678458" duration="1446000" />
+      <workItem from="1698943228554" duration="103000" />
+      <workItem from="1699031948522" duration="292000" />
+      <workItem from="1699126956577" duration="162000" />
+      <workItem from="1699128301749" duration="600000" />
+      <workItem from="1699209765580" duration="425000" />
+      <workItem from="1699286433186" duration="648000" />
+      <workItem from="1699373968046" duration="1281000" />
+      <workItem from="1699460528404" duration="1283000" />
+      <workItem from="1699519736099" duration="769000" />
+      <workItem from="1699524045160" duration="614000" />
+      <workItem from="1699544808445" duration="920000" />
+      <workItem from="1699632355005" duration="342000" />
+      <workItem from="1699717570023" duration="295000" />
+      <workItem from="1699795350395" duration="1623000" />
+      <workItem from="1699881512083" duration="824000" />
+      <workItem from="1700068437315" duration="1559000" />
+      <workItem from="1700195090425" duration="81000" />
+      <workItem from="1700237293983" duration="744000" />
+      <workItem from="1700296130333" duration="754000" />
+      <workItem from="1700336694892" duration="127000" />
+      <workItem from="1700404611879" duration="201000" />
+      <workItem from="1700481651583" duration="579000" />
+      <workItem from="1700489247346" duration="1841000" />
+      <workItem from="1700586821174" duration="929000" />
+      <workItem from="1700684716380" duration="286000" />
+      <workItem from="1700752402083" duration="1414000" />
+      <workItem from="1700854859132" duration="86000" />
+      <workItem from="1700856759584" duration="2002000" />
+      <workItem from="1701007993358" duration="1343000" />
+      <workItem from="1701083408124" duration="718000" />
+      <workItem from="1701094742882" duration="1262000" />
+      <workItem from="1701156916359" duration="682000" />
+      <workItem from="1701187174575" duration="693000" />
+      <workItem from="1701267733207" duration="117000" />
+      <workItem from="1701269175535" duration="614000" />
+      <workItem from="1701369086119" duration="878000" />
+      <workItem from="1701422698777" duration="1204000" />
+      <workItem from="1701530211648" duration="688000" />
+      <workItem from="1701619200173" duration="924000" />
+      <workItem from="1701794529033" duration="154000" />
+      <workItem from="1701794711904" duration="1278000" />
+      <workItem from="1701954823594" duration="2709000" />
+      <workItem from="1702150081974" duration="676000" />
+      <workItem from="1702235866699" duration="84000" />
+      <workItem from="1702321001490" duration="603000" />
+      <workItem from="1702323358398" duration="600000" />
+      <workItem from="1702412414086" duration="294000" />
+      <workItem from="1702483366115" duration="160000" />
+      <workItem from="1702544458650" duration="602000" />
+      <workItem from="1702550353894" duration="1383000" />
+      <workItem from="1702643663128" duration="1640000" />
+      <workItem from="1702746061605" duration="93000" />
+      <workItem from="1702834759578" duration="100000" />
+      <workItem from="1702923937881" duration="447000" />
+      <workItem from="1704097480525" duration="618000" />
+      <workItem from="1704218714135" duration="912000" />
+      <workItem from="1704275854052" duration="76000" />
+      <workItem from="1704302484116" duration="80000" />
+      <workItem from="1704393844565" duration="16000" />
+      <workItem from="1704393862681" duration="103000" />
+      <workItem from="1704483861380" duration="145000" />
+      <workItem from="1704564022311" duration="166000" />
+      <workItem from="1704624932105" duration="1896000" />
+      <workItem from="1704696871116" duration="1874000" />
+      <workItem from="1704785024109" duration="29000" />
+      <workItem from="1704915281764" duration="1759000" />
+      <workItem from="1705012802987" duration="700000" />
+      <workItem from="1705083198625" duration="79000" />
+      <workItem from="1705083308192" duration="642000" />
+      <workItem from="1705169020012" duration="128000" />
+      <workItem from="1705259455884" duration="107000" />
+      <workItem from="1705298928281" duration="786000" />
+      <workItem from="1705434167372" duration="151000" />
+      <workItem from="1705434337537" duration="19000" />
+      <workItem from="1705607171373" duration="395000" />
+      <workItem from="1705608673868" duration="25000" />
+      <workItem from="1705695320830" duration="236000" />
+      <workItem from="1705763096782" duration="2340000" />
+      <workItem from="1705773700546" duration="615000" />
+      <workItem from="1705952061683" duration="851000" />
+      <workItem from="1706000680891" duration="1215000" />
+      <workItem from="1706073741397" duration="75000" />
+      <workItem from="1706748860847" duration="60000" />
+      <workItem from="1708947429436" duration="3079000" />
+      <workItem from="1709105521965" duration="645000" />
+      <workItem from="1709365432955" duration="1001000" />
+      <workItem from="1709611400719" duration="607000" />
+      <workItem from="1709707954825" duration="609000" />
+      <workItem from="1719911174714" duration="1058000" />
     </task>
-    <task id="LOCAL-00001" summary="первый коммит">
-      <created>1689574674738</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+    <task id="LOCAL-00079" summary="_">
+      <created>1700587860442</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
       <option name="project" value="LOCAL" />
-      <updated>1689574674738</updated>
+      <updated>1700587860442</updated>
     </task>
-    <task id="LOCAL-00002" summary="14. Longest Common Prefix.py">
-      <created>1693397392513</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+    <task id="LOCAL-00080" summary="1424 _0/10">
+      <created>1700684864572</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
       <option name="project" value="LOCAL" />
-      <updated>1693397392513</updated>
+      <updated>1700684864573</updated>
     </task>
-    <task id="LOCAL-00003" summary="14. Longest Common Prefix.py">
-      <created>1693397692178</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+    <task id="LOCAL-00081" summary="1630 _0/10">
+      <created>1700755274770</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
       <option name="project" value="LOCAL" />
-      <updated>1693397692178</updated>
+      <updated>1700755274770</updated>
     </task>
-    <task id="LOCAL-00004" summary="14. Longest Common Prefix.py">
-      <created>1693397770143</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+    <task id="LOCAL-00082" summary="1561 _0/10">
+      <created>1700854921318</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
       <option name="project" value="LOCAL" />
-      <updated>1693397770143</updated>
+      <updated>1700854921318</updated>
     </task>
-    <task id="LOCAL-00005" summary="20. Valid Parentheses">
-      <created>1693398851959</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
+    <task id="LOCAL-00083" summary="1685 _0/10">
+      <created>1700925500433</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
       <option name="project" value="LOCAL" />
-      <updated>1693398851959</updated>
+      <updated>1700925500433</updated>
     </task>
-    <task id="LOCAL-00006" summary="9. Palindrome Number">
-      <created>1693399183806</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
+    <task id="LOCAL-00084" summary="1727 _0/10">
+      <created>1701008344058</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
       <option name="project" value="LOCAL" />
-      <updated>1693399183806</updated>
+      <updated>1701008344058</updated>
     </task>
-    <task id="LOCAL-00007" summary="no name">
-      <created>1693635479004</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
+    <task id="LOCAL-00085" summary="1727 _0/10">
+      <created>1701083464699</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
       <option name="project" value="LOCAL" />
-      <updated>1693635479004</updated>
+      <updated>1701083464699</updated>
     </task>
-    <task id="LOCAL-00008" summary="62. Unique Paths">
-      <created>1693755525082</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
+    <task id="LOCAL-00086" summary="935 _0/10">
+      <created>1701095398773</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
       <option name="project" value="LOCAL" />
-      <updated>1693755525082</updated>
+      <updated>1701095398773</updated>
     </task>
-    <task id="LOCAL-00009" summary="141 912">
-      <created>1693910761982</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
+    <task id="LOCAL-00087" summary="2147 _0/10">
+      <created>1701187838298</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
       <option name="project" value="LOCAL" />
-      <updated>1693910761982</updated>
+      <updated>1701187838298</updated>
     </task>
-    <task id="LOCAL-00010" summary="138">
-      <created>1693981988226</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
+    <task id="LOCAL-00088" summary="191 _0/10">
+      <created>1701267826947</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
       <option name="project" value="LOCAL" />
-      <updated>1693981988226</updated>
+      <updated>1701267826947</updated>
     </task>
-    <task id="LOCAL-00011" summary="92 26">
-      <created>1694091921688</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
+    <task id="LOCAL-00089" summary="1611 _0/10">
+      <created>1701372584478</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
       <option name="project" value="LOCAL" />
-      <updated>1694091921688</updated>
+      <updated>1701372584479</updated>
     </task>
-    <task id="LOCAL-00012" summary="118. Pascal's Triangle">
-      <created>1694188887314</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
+    <task id="LOCAL-00090" summary="1660 _0/10">
+      <created>1701530290657</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
       <option name="project" value="LOCAL" />
-      <updated>1694188887314</updated>
+      <updated>1701530290657</updated>
     </task>
-    <task id="LOCAL-00013" summary="39">
-      <created>1694289635378</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
+    <task id="LOCAL-00091" summary="1266 _0/10">
+      <created>1701619307478</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
       <option name="project" value="LOCAL" />
-      <updated>1694289635378</updated>
+      <updated>1701619307479</updated>
     </task>
-    <task id="LOCAL-00014" summary="377. Combination Sum IV">
-      <created>1694289986206</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
+    <task id="LOCAL-00092" summary="2264 _0/10">
+      <created>1701704677745</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
       <option name="project" value="LOCAL" />
-      <updated>1694289986206</updated>
+      <updated>1701704677745</updated>
     </task>
-    <task id="LOCAL-00015" summary="1282. Group the People Given the Group Size They Belong To">
-      <created>1694432462007</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
+    <task id="LOCAL-00093" summary="1688 _0/10">
+      <created>1701794659322</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
       <option name="project" value="LOCAL" />
-      <updated>1694432462007</updated>
+      <updated>1701794659322</updated>
     </task>
-    <task id="LOCAL-00016" summary="1647. Minimum Deletions to Make Character Frequencies Unique">
-      <created>1694539277125</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
+    <task id="LOCAL-00094" summary="1716 _0/10">
+      <created>1701881022182</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
       <option name="project" value="LOCAL" />
-      <updated>1694539277125</updated>
+      <updated>1701881022183</updated>
     </task>
-    <task id="LOCAL-00017" summary="135. Candy">
-      <created>1694620507491</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
+    <task id="LOCAL-00095" summary="1903 _0/10">
+      <created>1701955016713</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
       <option name="project" value="LOCAL" />
-      <updated>1694620507491</updated>
+      <updated>1701955016714</updated>
     </task>
-    <task id="LOCAL-00018" summary="332. Reconstruct Itinerary">
-      <created>1694766542724</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
+    <task id="LOCAL-00096" summary="606 _0/10">
+      <created>1702063814576</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
       <option name="project" value="LOCAL" />
-      <updated>1694766542724</updated>
+      <updated>1702063814577</updated>
     </task>
-    <task id="LOCAL-00019" summary="13. Roman to Integer &#10;1833. Maximum Ice Cream Bars&#10;83. Remove Duplicates from Sorted List">
-      <created>1694789195585</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
+    <task id="LOCAL-00097" summary="94 _0/10">
+      <created>1702150153195</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
       <option name="project" value="LOCAL" />
-      <updated>1694789195585</updated>
+      <updated>1702150153196</updated>
     </task>
-    <task id="LOCAL-00020" summary="1631. Path With Minimum Effort">
-      <created>1694844007159</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
+    <task id="LOCAL-00098" summary="867 _0/10">
+      <created>1702235932917</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
       <option name="project" value="LOCAL" />
-      <updated>1694844007159</updated>
+      <updated>1702235932918</updated>
     </task>
-    <task id="LOCAL-00021" summary="test">
-      <created>1694932680687</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
+    <task id="LOCAL-00099" summary="1287 _0/10">
+      <created>1702321279332</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
       <option name="project" value="LOCAL" />
-      <updated>1694932680687</updated>
+      <updated>1702321279333</updated>
     </task>
-    <task id="LOCAL-00022" summary="1337. The K Weakest Rows in a Matrix">
-      <created>1695025671549</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
+    <task id="LOCAL-00100" summary="1464 _5/10">
+      <created>1702412692631</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
       <option name="project" value="LOCAL" />
-      <updated>1695025671549</updated>
+      <updated>1702412692632</updated>
     </task>
-    <task id="LOCAL-00023" summary="gitignore">
-      <created>1695108701037</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
+    <task id="LOCAL-00101" summary="1582 _0/10">
+      <created>1702483515604</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
       <option name="project" value="LOCAL" />
-      <updated>1695108701037</updated>
+      <updated>1702483515604</updated>
     </task>
-    <task id="LOCAL-00024" summary="gitignore">
-      <created>1695108757960</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
+    <task id="LOCAL-00102" summary="2482 _0/10">
+      <created>1702575834536</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
       <option name="project" value="LOCAL" />
-      <updated>1695108757960</updated>
+      <updated>1702575834536</updated>
     </task>
-    <task id="LOCAL-00025" summary="gitignore">
-      <created>1695112428896</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
+    <task id="LOCAL-00103" summary="12 _6/10">
+      <created>1702644054763</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
       <option name="project" value="LOCAL" />
-      <updated>1695112428896</updated>
+      <updated>1702644054763</updated>
     </task>
-    <task id="LOCAL-00026" summary="gitignore">
-      <created>1695112494118</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
+    <task id="LOCAL-00104" summary="1436 _6/10">
+      <created>1702657224053</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
       <option name="project" value="LOCAL" />
-      <updated>1695112494118</updated>
+      <updated>1702657224054</updated>
     </task>
-    <task id="LOCAL-00027" summary="gitignore">
-      <created>1695112536963</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
+    <task id="LOCAL-00105" summary="242 _6/10">
+      <created>1702746116873</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
       <option name="project" value="LOCAL" />
-      <updated>1695112536963</updated>
+      <updated>1702746116874</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00106" summary="2353 _0/10">
+      <created>1702834846553</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1702834846553</updated>
+    </task>
+    <task id="LOCAL-00107" summary="1913 _0/10">
+      <created>1702924024430</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1702924024431</updated>
+    </task>
+    <task id="LOCAL-00108" summary="2610 _0/10">
+      <created>1704218779165</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1704218779166</updated>
+    </task>
+    <task id="LOCAL-00109" summary="2125 _0/10">
+      <created>1704302547968</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1704302547968</updated>
+    </task>
+    <task id="LOCAL-00110" summary="2870 _0/10">
+      <created>1704393938363</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1704393938364</updated>
+    </task>
+    <task id="LOCAL-00111" summary="300 _0/10">
+      <created>1704483946334</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1704483946334</updated>
+    </task>
+    <task id="LOCAL-00112" summary="1235 _0/10">
+      <created>1704564174830</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1704564174831</updated>
+    </task>
+    <task id="LOCAL-00113" summary="446 _0/10">
+      <created>1704627970914</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1704627970914</updated>
+    </task>
+    <task id="LOCAL-00114" summary="938 _0/10">
+      <created>1704742484638</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1704742484638</updated>
+    </task>
+    <task id="LOCAL-00115" summary="2385 _0/10">
+      <created>1704915421733</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1704915421734</updated>
+    </task>
+    <task id="LOCAL-00116" summary="872 _0/10">
+      <created>1704916539333</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1704916539333</updated>
+    </task>
+    <task id="LOCAL-00117" summary="1026 _0/10">
+      <created>1705013869457</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1705013869457</updated>
+    </task>
+    <task id="LOCAL-00118" summary="1704 _0/10">
+      <created>1705083267825</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1705083267826</updated>
+    </task>
+    <task id="LOCAL-00119" summary="1347 _0/10">
+      <created>1705169076556</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1705169076557</updated>
+    </task>
+    <task id="LOCAL-00120" summary="1657 _0/10">
+      <created>1705259553745</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1705259553745</updated>
+    </task>
+    <task id="LOCAL-00121" summary="2225 _0/10">
+      <created>1705340030479</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1705340030480</updated>
+    </task>
+    <task id="LOCAL-00122" summary="380 _0/10">
+      <created>1705434290340</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1705434290340</updated>
+    </task>
+    <task id="LOCAL-00123" summary="70 _0/10">
+      <created>1705607537629</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1705607537630</updated>
+    </task>
+    <task id="LOCAL-00124" summary="931 _0/10">
+      <created>1705695541414</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1705695541415</updated>
+    </task>
+    <task id="LOCAL-00125" summary="970 _0/10">
+      <created>1705769830307</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1705769830307</updated>
+    </task>
+    <task id="LOCAL-00126" summary="645 _0/10">
+      <created>1705952922391</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1705952922391</updated>
+    </task>
+    <task id="LOCAL-00127" summary="1457 _0/10">
+      <created>1706073802447</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1706073802448</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,41 +900,47 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="первый коммит" />
-    <MESSAGE value="14. Longest Common Prefix.py" />
-    <MESSAGE value="20. Valid Parentheses" />
-    <MESSAGE value="9. Palindrome Number" />
-    <MESSAGE value="no name" />
-    <MESSAGE value="62. Unique Paths" />
-    <MESSAGE value="141 912" />
-    <MESSAGE value="138" />
-    <MESSAGE value="92 26" />
-    <MESSAGE value="118. Pascal's Triangle" />
-    <MESSAGE value="39" />
-    <MESSAGE value="377. Combination Sum IV" />
-    <MESSAGE value="1282. Group the People Given the Group Size They Belong To" />
-    <MESSAGE value="1647. Minimum Deletions to Make Character Frequencies Unique" />
-    <MESSAGE value="135. Candy" />
-    <MESSAGE value="332. Reconstruct Itinerary" />
-    <MESSAGE value="13. Roman to Integer &#10;1833. Maximum Ice Cream Bars&#10;83. Remove Duplicates from Sorted List" />
-    <MESSAGE value="1631. Path With Minimum Effort" />
-    <MESSAGE value="test" />
-    <MESSAGE value="1337. The K Weakest Rows in a Matrix" />
-    <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="12 _6/10" />
+    <MESSAGE value="1436 _6/10" />
+    <MESSAGE value="242 _6/10" />
+    <MESSAGE value="2353 _0/10" />
+    <MESSAGE value="1913 _0/10" />
+    <MESSAGE value="2610 _0/10" />
+    <MESSAGE value="2125 _0/10" />
+    <MESSAGE value="2870 _0/10" />
+    <MESSAGE value="300 _0/10" />
+    <MESSAGE value="1235 _0/10" />
+    <MESSAGE value="446 _0/10" />
+    <MESSAGE value="938 _0/10" />
+    <MESSAGE value="2385 _0/10" />
+    <MESSAGE value="872 _0/10" />
+    <MESSAGE value="1026 _0/10" />
+    <MESSAGE value="1704 _0/10" />
+    <MESSAGE value="1347 _0/10" />
+    <MESSAGE value="1657 _0/10" />
+    <MESSAGE value="2225 _0/10" />
+    <MESSAGE value="380 _0/10" />
+    <MESSAGE value="70 _0/10" />
+    <MESSAGE value="931 _0/10" />
+    <MESSAGE value="970 _0/10" />
+    <MESSAGE value="645 _0/10" />
+    <MESSAGE value="1457 _0/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="1457 _0/10" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeedCode$62__Unique_Paths.coverage" NAME="62. Unique Paths Coverage Results" MODIFIED="1693749792231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeedCode$118__Pascal_s_Triangle.coverage" NAME="118. Pascal's Triangle Coverage Results" MODIFIED="1694188764843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeedCode$20__Valid_Parentheses.coverage" NAME="20. Valid Parentheses Coverage Results" MODIFIED="1693398704782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeedCode$144__Binary_Tree_Preorder_Traversal.coverage" NAME="144. Binary Tree Preorder Traversal Coverage Results" MODIFIED="1693397346354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$test.coverage" NAME="test Coverage Results" MODIFIED="1695112480729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeedCode$14__Longest_Common_Perfix.coverage" NAME="14. Longest Common Perfix Coverage Results" MODIFIED="1693397754036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeedCode$1647__Minimum_Deletions_to_Make_Character_Frequencies_Unique.coverage" NAME="1647. Minimum Deletions to Make Character Frequencies Unique Coverage Results" MODIFIED="1694538927779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeedCode$100__Same_Tree.coverage" NAME="100. Same Tree Coverage Results" MODIFIED="1693397656103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeedCode$912__Sort_an_Array.coverage" NAME="912. Sort an Array Coverage Results" MODIFIED="1693821957806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeedCode$138__Copy_List_with_Random_Pointer.coverage" NAME="138. Copy List with Random Pointer Coverage Results" MODIFIED="1693917856419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$2391__Minimum_Amount_of_Time_to_Collect_Garbage.coverage" NAME="2391. Minimum Amount of Time to Collect Garbage Coverage Results" MODIFIED="1700489427489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeedCode$725__Split_Linked_List_in_Parts.coverage" NAME="725. Split Linked List in Parts Coverage Results" MODIFIED="1693993990075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$1337__The_K_Weakest_Rows_in_a_Matrix.coverage" NAME="1337. The K Weakest Rows in a Matrix Coverage Results" MODIFIED="1695110330528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeedCode$118__Pascal_s_Triangle.coverage" NAME="118. Pascal's Triangle Coverage Results" MODIFIED="1694188764843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeedCode$100__Same_Tree.coverage" NAME="100. Same Tree Coverage Results" MODIFIED="1693397656103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$70__Climbing_Stairs.coverage" NAME="70. Climbing Stairs Coverage Results" MODIFIED="1705607522094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
